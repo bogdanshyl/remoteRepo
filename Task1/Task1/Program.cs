@@ -32,7 +32,6 @@ namespace Task1
             myDsab.PrintValues(array2);
 
             Console.ReadLine();
-            //check for changes
         }
     }
 }
